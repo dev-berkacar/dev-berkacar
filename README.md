@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I am a passionate, ambitious, and experienced Frontend Developer adept in all stages of advanced web development.<br>🔭 Shoot me an Email or add me on LinkedIn<br>🌱 I have rolled a course for Computer Science celtification on Codecademy and working on it.<br>💬 Ask me anything related to mobile or web development specifically React / React Native.<br>
+⚡ I am a passionate, ambitious, and experienced Frontend Developer adept in all stages of advanced web development.<br>🔭 Shoot me an Email or add me on LinkedIn<br>🌱 I have rolled a course for Computer Science celtification on Codecademy and working on it. Also working on a top down survival semi arpg game in Godot<br>💬 Ask me anything related to mobile or web development specifically React / React Native.<br>
 
 
 ## 🌐 Socials:
